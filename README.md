@@ -1,1 +1,5 @@
-# Altyapı [Botclub](https://discord.gg/6EFd3z6A8k) 'a aittir. [Beta](https://discord.com/users/780891365063917572) tarafından hatalar fixlenip embedlar eklenmiştir.
+<div align="center">
+   <a href="https://github.com/BetaWile">
+      <img src="https://betaaa.has-a-hot.mom/55orRHk8J.gif">
+   </a>
+</div>
